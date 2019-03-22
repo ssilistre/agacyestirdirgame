@@ -5,12 +5,12 @@ session_start();
 
 
 $db="localhost";
-$kullanici ="silistre_agac";
-$sifre="Pr0gramc2";
-$dataname ="silistre_agac";
-$disqusisim="agac";
-$siteadi="Ağaç Dik Hayat Kurtar";
-$url = 'http://silistreturizm.com/agac/'; // Oyunun Tam URLsi /
+$kullanici ="databasekullanici";
+$sifre="databasesifre";
+$dataname ="databaseisim";
+$disqusisim="disgusadin";
+$siteadi="SİTE ADI";
+$url = 'http://siteniz.com/'; // Oyunun Tam URLsi /
 
 //Bunun altindakileri düzenlemene gerek yok aslan..
 $username = "";
