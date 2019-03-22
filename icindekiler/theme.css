@@ -1,0 +1,18 @@
+/* SSilistre.me Tasarım Aga ot bok püsür. */
+body {
+    background-image: url("http://silistreturizm.com/agac/images/bg.jpg");
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+     -o-background-size: cover;
+        background-size: cover;
+}  
+
+#ormanmain {
+    width: 700px;
+    height: 420px;
+}       
+@media only screen and (max-width: 1000px) {
+    #ormanmain {
+        display: none;
+    }       
+} 
