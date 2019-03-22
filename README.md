@@ -3,9 +3,6 @@
 
 Merhaba arkadaşlar Ormanika adlı scripti alıp üzerine geliştirmeler yapıp. Daha da fazlasını yapmayı planlıyorum.  Bu scripti şuan kullanmaya başlayabilirsiniz. Ben güncellemeye devam ettikçe dosyaları değiştirmeniz yeterli olucak. Şimdi kurulumuna geçmeden..
 
- ![resim](https://i.hizliresim.com/RrNlvo.png)
-  
-<!-- more -->
 # Sistem Nasıl Çalışıyor ?
 
  Kayıt oluyorsunuz size bir link veriyor. O Linke günde 1 kere tıklayınca 1 ağaç dikiyorsunuz. Sözde 100 Ağaçta marketden ödül talep edebiliyorsunuz veya gübre satın alıp 1 değil 5 ağaç dikebiliyorsunuz. Görev yaparsanız 24 saatlik süre azalıyor gibi gibi.
