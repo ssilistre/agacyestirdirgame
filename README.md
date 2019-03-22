@@ -3,7 +3,7 @@
 
 Merhaba arkadaşlar Ormanika adlı scripti alıp üzerine geliştirmeler yapıp. Daha da fazlasını yapmayı planlıyorum.  Bu scripti şuan kullanmaya başlayabilirsiniz. Ben güncellemeye devam ettikçe dosyaları değiştirmeniz yeterli olucak. Şimdi kurulumuna geçmeden..
 
- ![enter image description here](https://i.hizliresim.com/RrNlvo.png){:class="responsive"} 
+ ![resim](https://i.hizliresim.com/RrNlvo.png)
   
 <!-- more -->
 # Sistem Nasıl Çalışıyor ?
